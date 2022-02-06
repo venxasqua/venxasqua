@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @venxasqua
-- 👀 I’m interested in applied mathematics
+- 👀 I’m interested in applied mathematics and machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
